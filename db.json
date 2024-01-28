@@ -29,46 +29,7 @@
     }
   ],
   "users": [
-    {
-      "id": "314b",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "abe0",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "e39a",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "15be",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "d6bc",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "cdd3",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "12da",
-      "name": "Grey",
-      "email": "test@test.com"
-    },
-    {
-      "id": "8e1c",
-      "name": "Grey",
-      "email": "test@test.com"
-    }
+    
   ],
   "robots": [
     {
